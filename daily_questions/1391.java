@@ -8,7 +8,7 @@ class Solution {
         {-1, -1, 1, 0}
     };
     private static final int[][] DIRS = {
-        {-1, 0},
+        {-1, 0},//up
         {0, 1}, 
         {1, 0}, 
         {0, -1} 
